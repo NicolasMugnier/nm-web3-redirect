@@ -1,0 +1,17 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjkwODUxNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEVlODZjMDBFYmU1Njk1NGMxMDJlQTIwNzQ1NjZhZGEwQzIzNTU2RmIifQ",
+      "payload": "eyJkb21haW4iOiJubS13ZWIzLnh5eiJ9",
+      "signature": "MHg2YmQ3NDgyZWM5ODQ1ZWZiMTg3ZjJiZWEyNzFlNDUzZTZlZDY5OGRmMTFiOGE1NzU1NDA2YWFiZjM3MTFmYzZhNzU2YjlmZTUwOGE2YTNjMTJiZWM1YWRlNzc0MzRhZjI3NTBhMzMwNDk0MjdjM2NlZmJlNjE4NjM3NzM2OWUyMTFj"
+    },
+    "frame": {
+      "version": "1",
+      "name": "nm-web3",
+      "iconUrl": "https://nm-web3.xyz/icon.png",
+      "homeUrl": "https://nm-web3.xyz",
+      "imageUrl": "https://nm-web3.xyz/image.png",
+      "buttonTitle": "Read",
+      "splashImageUrl": "https://nm-web3.xyz/splash.png",
+      "splashBackgroundColor": "#eeccff"
+    }
+  }
